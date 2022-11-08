@@ -1,0 +1,16 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "this is the node basic learning",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kojubivek",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
